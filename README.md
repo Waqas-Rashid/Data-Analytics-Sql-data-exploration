@@ -1,4 +1,5 @@
 Exploratory Data Analysis for different projects using sql.
+
 Data source for Covid project: https://ourworldindata.org/covid-deaths)
 Dashboard of Covid Analysis : https://public.tableau.com/app/profile/waqas.rashid/viz/CovidStatsAnalysisWorldwide/Dashboard1
 
